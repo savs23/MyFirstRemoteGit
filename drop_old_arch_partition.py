@@ -1,13 +1,9 @@
 #!/usr/bin/python2.7
 #Add comment
 #Add new line once more
-<<<<<<< HEAD
 #Add line on my local comp
-
-
-=======
 #Add line on my Remote Site comp
->>>>>>> eef7b287da8d10fc2caff7d373eed864d82ff9fa
+
 import pyodbc
 import datetime
 import re
