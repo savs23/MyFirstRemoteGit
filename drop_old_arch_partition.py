@@ -4,6 +4,7 @@
 #Add line on my local comp
 #Add line on my Remote Site comp
 #Add something else
+#Add blank row on the top
 import pyodbc
 import datetime
 import re
