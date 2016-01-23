@@ -12,7 +12,7 @@ import re
 import sys
 import os
 import optparse
-<<<<<<< HEAD
+
 #Add blank row ALMOST on the top on the local comp. I try correct in the same row on LOCAL COMP
 parser = optparse.OptionParser()
 parser.add_option("-D", "--database", help="database name")
